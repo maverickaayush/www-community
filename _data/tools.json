@@ -1599,17 +1599,6 @@
 		]
 	},
 	{
-		"title": "OWASP ASST (Automated Software Security Toolkit)",
-		"url": "https://github.com/OWASP/ASST",
-		"owner": "Tarik Seyceri & OWASP",
-		"license": "Open Source or Free",
-		"platforms": "Ubuntu, MacOSX and Windows",
-		"note": "An Open Source, Source Code Scanning Tool, developed with JavaScript (Node.js framework), Scans for PHP & MySQL Security Vulnerabilities According to OWASP Top 10 and Some other OWASP's famous vulnerabilities, and it teaches developers of how to secure their codes after scan.",
-		"type": [
-			"SAST"
-		]
-	},
-	{
 		"title": "ONUS",
 		"url": "https://github.com/maverickaayush/ONUS",
 		"owner": "Aayush Yadav",
@@ -1618,6 +1607,17 @@
 		"note": "Open-source web application vulnerability scanner with deterministic CVSS scoring, AI-assisted analysis, and plain-English remediation guidance that enables developers without security expertise to understand and fix vulnerabilities.",
 		"type": [
 			"DAST"
+		]
+	},
+	{
+		"title": "OWASP ASST (Automated Software Security Toolkit)",
+		"url": "https://github.com/OWASP/ASST",
+		"owner": "Tarik Seyceri & OWASP",
+		"license": "Open Source or Free",
+		"platforms": "Ubuntu, MacOSX and Windows",
+		"note": "An Open Source, Source Code Scanning Tool, developed with JavaScript (Node.js framework), Scans for PHP & MySQL Security Vulnerabilities According to OWASP Top 10 and Some other OWASP's famous vulnerabilities, and it teaches developers of how to secure their codes after scan.",
+		"type": [
+			"SAST"
 		]
 	},
 	{
